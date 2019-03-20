@@ -11,6 +11,7 @@ html{
         height:150px;
         width: 100%;
         display:inline-flex;
+        position:relative;
     } 
     .logo{
         width:150px;

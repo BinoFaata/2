@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="F:\it\Луговец\4\4.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles/>
+ <errors version="5.3"/>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file name="F:\it\Луговец\4\styles\main.css" crc="1553101142008"/>
+  <file name="F:\it\Луговец\4\styles\header.css" crc="1553101127251"/>
+  <file name="F:\it\Луговец\4\styles\footer.css" crc="1553101158875"/>
+  <file name="F:\it\Луговец\4\style.css" crc="1552513880738"/>
+  <file name="F:\it\Луговец\4\index.html" crc="1552665634759"/>
+ </filescache>
+</project>
